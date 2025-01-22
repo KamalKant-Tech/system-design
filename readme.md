@@ -1,3 +1,6 @@
+# What is System Design?
+The system design of a system is high level description of the system's structure, its different components, and how these components are communicating with each other to fullfil the system requirements and constraints.
+
 # Key Attributes of System Design
 - Peformance
 - Scalability
