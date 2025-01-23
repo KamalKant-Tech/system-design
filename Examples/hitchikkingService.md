@@ -30,4 +30,9 @@
     - Reliability 
     - Security 
     - Performance
-    - ...
+    - .....
+
+### System Constraints:
+- Time Constraints - Deadline
+- Financial Constraints -  Limited Budget
+- Staffing Constraints - like how many engineers availabel for work.
